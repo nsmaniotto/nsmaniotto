@@ -41,7 +41,7 @@
 
 
 <div width="100%" align="center">
-	<h3>👨‍💻 Main programing languages</h3>
+	<h3>👨‍💻 Main programming languages</h3>
 	<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />

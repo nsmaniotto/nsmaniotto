@@ -13,7 +13,7 @@
 		<tr>
 			<td>
 				<p>
-					👨‍🎓 Enrolled in a Master of Engineering in Computer Science at <a href="http://www.insa-toulouse.fr/">INSA Toulouse</a>, France
+					👨‍🎓 Enrolled in a Master of Engineering in Computer Science at <a href="http://www.insa-toulouse.fr/" target="_blank">INSA Toulouse</a>, France
 					<br/>
 					🎯 My goal is to specialize in <b>Software Development Engineering</b>
 					<br/>
@@ -22,15 +22,15 @@
 			</td>
 			<td>
 				<p>
-					<a href="https://www.linkedin.com/in/nathan-smaniotto/">
+					<a href="https://www.linkedin.com/in/nathan-smaniotto/" target="_blank">
 						<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/%2Fin%2F-nsmaniotto-%230077B5?&style=for-the-badge&logoColor=white"/>
 					</a>
 					<br>
-					<a href="mailto:smaniotto.nathan@gmail.com">
+					<a href="mailto:smaniotto.nathan@gmail.com" target="_blank">
 						<img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/smaniotto.nathan-@gmail.com-D14836?&style=for-the-badge&logoColor=white"/>
 					</a>
 					<br/>
-					<a href="https://www.instagram.com/smaniottonathan/">
+					<a href="https://www.instagram.com/smaniottonathan/" target="_blank">
 						<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /><img src="https://img.shields.io/badge/@-smaniottonathan-%23E4405F?&style=for-the-badge&logoColor=white"/>
 					</a>
 				</p>

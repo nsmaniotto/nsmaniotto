@@ -17,7 +17,7 @@
 					<br/>
 					🎯 My goal is to specialize in <b>Software Development Engineering</b>
 					<br/>
-					🌍 French, a lot of English and a bit of Spanish
+					🌍 French, a <i>stack</i> of English and a <i>bit</i> of Spanish
 				</p>
 			</td>
 			<td>
@@ -30,8 +30,8 @@
 						<img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/smaniotto.nathan-@gmail.com-D14836?&style=for-the-badge&logoColor=white"/>
 					</a>
 					<br/>
-					<a href="https://www.instagram.com/smaniottonathan/" target="_blank">
-						<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /><img src="https://img.shields.io/badge/@-smaniottonathan-%23E4405F?&style=for-the-badge&logoColor=white"/>
+					<a href="https://www.instagram.com/sma_nathan/" target="_blank">
+						<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /><img src="https://img.shields.io/badge/@-sma__nathan-%23E4405F?&style=for-the-badge&logoColor=white"/>
 					</a>
 				</p>
 			</td>

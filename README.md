@@ -15,7 +15,7 @@
 				<p>
 					👨‍💻 Full-stack Software Engineer <a href="https://www.capgemini.com/" target="_blank">@Capgemini</a>
 					<br/>
-					👨‍🎓 Studied <b>Software development</b>, <b>Artificial Intelligencet</b> and <b>Machine Learning</b> at <a href="http://www.insa-toulouse.fr/" target="_blank">INSA Toulouse</a>, France
+					👨‍🎓 Studied <b>Software development</b>, <b>Artificial Intelligence</b> and <b>Machine Learning</b> at <a href="http://www.insa-toulouse.fr/" target="_blank">INSA Toulouse</a>, France
 					<br/>
 					🌍 French, a <i>stack</i> of English and a <i>bit</i> of Spanish
 				</p>

@@ -53,7 +53,17 @@
 
 
 <div width="100%" align="center">
-	<h3>Working on <a href="https://www.mlany.net" target="_blank"><b>MLany.net</b></a></h3>
+	<h3 style="display: flex; align-items: center; justify-content: center;">
+		<a href="https://www.mlany.net" target="_blank">
+ 			<img src="https://www.mlany.net/assets/favicon.ico" style="max-height: 33px;"/>	
+		</a>
+		&nbsp
+   		<span>Working on <a href="https://www.mlany.net" target="_blank"><b><i>MLany.net</i></b></a></span>
+		&nbsp
+		<a href="https://www.mlany.net" target="_blank">
+ 			<img src="https://www.mlany.net/assets/favicon.ico" style="max-height: 33px;"/>	
+		</a>
+     	</h3>
 	<a href="https://www.mlany.net" target="_blank">
 		<img src="https://www.mlany.net/assets/banner.png" />
 	</a>
